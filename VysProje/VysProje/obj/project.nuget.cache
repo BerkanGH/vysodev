@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XM+LWWTLBwpydlyqqGSyjfCVxu/nmrMA3KXjsLF0YZfLPZwlx+tLDCVmjb7P3bleIjrqhzpvAiIUWvtM8VNm6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet\\Desktop\\VysProje\\VysProje\\VysProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
